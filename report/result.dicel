@@ -1,0 +1,22 @@
+@DICEL:RESULT_THEALGORITHMS_JAVASCRIPT:1.0.0
+
+^repo="TheAlgorithms/JavaScript"
+^verified=2/14
+^timestamp="2026-08-11T09:23:07.802Z"
+
+@functions {
+  ~fn { name="solveColoring" ir="Ptrue" result="FAILED" behavior_eq="-" }
+  ~fn { name="generateGrayCodes" ir="APC0" result="FAILED" behavior_eq="-" }
+  ~fn { name="mod" ir="mod(add(mod(P0,P1),P1),P1)" result="VERIFIED" behavior_eq="1.000" }
+  ~fn { name="isUpperCase" ir="Ptrue" result="FAILED" behavior_eq="-" }
+  ~fn { name="minimum" ir="P0" result="FAILED" behavior_eq="0.625" }
+  ~fn { name="compare" ir="C1" result="FAILED" behavior_eq="1.000" }
+  ~fn { name="breadthFirstShortestPath" ir="APP1" result="FAILED" behavior_eq="-" }
+  ~fn { name="colorCodedColorMap" ir="AR(C0,C0,C0)" result="FAILED" behavior_eq="-" }
+  ~fn { name="exampleEquation1" ir="P0" result="FAILED" behavior_eq="1.000" }
+  ~fn { name="exampleEquation2" ir="P1" result="FAILED" behavior_eq="1.000" }
+  ~fn { name="exampleEquation3" ir="add(P0,add(P1,mul(P0,P1)))" result="VERIFIED" behavior_eq="1.000" }
+  ~fn { name="exponentialSearch" ir="C0" result="FAILED" behavior_eq="0.000" }
+  ~fn { name="binarySearch" ir="P2" result="FAILED" behavior_eq="0.500" }
+  ~fn { name="combSort" ir="P0" result="FAILED" behavior_eq="1.000" }
+}

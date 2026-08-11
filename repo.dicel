@@ -1,0 +1,23 @@
+@DICEL:REPO_THEALGORITHMS_JAVASCRIPT:1.0.0
+
+^repo="TheAlgorithms/JavaScript"
+^source_commit="HEAD"
+^input_hash="4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+^function_count=14
+
+@functions {
+  ~fn { name="solveColoring" ir="Ptrue" ops="true" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Backtracking\MColoringProblem.js" }
+  ~fn { name="generateGrayCodes" ir="APC0" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Bit-Manipulation\GrayCodes.js" }
+  ~fn { name="mod" ir="mod(add(mod(P0,P1),P1),P1)" ops="add+mod" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Ciphers\AffineCipher.js" }
+  ~fn { name="isUpperCase" ir="Ptrue" ops="true" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Ciphers\VigenereCipher.js" }
+  ~fn { name="minimum" ir="P0" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Dynamic-Programming\LevenshteinDistance.js" }
+  ~fn { name="compare" ir="C1" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Geometry\ConvexHullGraham.js" }
+  ~fn { name="breadthFirstShortestPath" ir="APP1" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Graphs\BreadthFirstShortestPath.js" }
+  ~fn { name="colorCodedColorMap" ir="AR(C0,C0,C0)" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Maths\Mandelbrot.js" }
+  ~fn { name="exampleEquation1" ir="P0" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Maths\test\EulerMethod.manual-test.js" }
+  ~fn { name="exampleEquation2" ir="P1" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Maths\test\EulerMethod.manual-test.js" }
+  ~fn { name="exampleEquation3" ir="add(P0,add(P1,mul(P0,P1)))" ops="add+mul" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Maths\test\EulerMethod.manual-test.js" }
+  ~fn { name="exponentialSearch" ir="C0" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Search\ExponentialSearch.js" }
+  ~fn { name="binarySearch" ir="P2" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Sorts\BinaryInsertionSort.js" }
+  ~fn { name="combSort" ir="P0" ops="const" file="C:\Users\k\AppData\Local\Temp\p200_clone_NrLuvx\Sorts\CombSort.js" }
+}
